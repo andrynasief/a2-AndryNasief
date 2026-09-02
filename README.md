@@ -2,9 +2,9 @@
 - Generated Color Palette
 - Simple SKU generation for every object
 - Simple Hover Animation for object cards
-- How to include filed name inside field
+- How to include field name inside field
 - JSON parsing debugging
-- copy/paste "To run locally..."
+- copy/paste "Running Locally Instructions"
 
 # Jersey Collection
 
