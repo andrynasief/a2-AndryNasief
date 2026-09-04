@@ -21,7 +21,7 @@ const seedData = [
   { team: 'Barcelona Home', player: 'Lamine', number: 10, size: 'S', price: 25 },
   { team: 'Barcelona Away', player: 'Raphinha', number: 11, size: 'M', price: 30 },
   { team: 'Man United 3rd', player: 'No Name', number: 0, size: 'L', price: 30 },
-  { team: 'Juventus Away', player: 'No Name', number: 0, size: 'XXL', price: 25 },
+  { team: 'Juventus Away', player: 'No Name', number: 0, size: 'XL', price: 25 },
 ]
 
 seedData.forEach( row => {

@@ -19,8 +19,6 @@ npm start
 
 Then open `http://localhost:3000`.
 
-Live app: https://a2-yourGithubUsername.glitch.me
-
 ## Technical Achievements
 
 - **Tech Achievement 1:** Built as a single-page app. Submitting the form POSTs to `/submit`, and the server responds with the full updated dataset (including the newly computed `sku` derived field), which the client re-renders immediately — no page reload.
